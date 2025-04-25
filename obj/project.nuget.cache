@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s/IbOK2AcRU=",
+  "success": true,
+  "projectFilePath": "/Users/markantonylisle/CSHARP/gptdemo/gptdemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/markantonylisle/.nuget/packages/openai-dotnet/8.6.3/openai-dotnet.8.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

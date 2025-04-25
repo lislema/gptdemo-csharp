@@ -1,0 +1,17 @@
+/Users/markantonylisle/CSHARP/gptdemo/bin/Debug/net9.0/gptdemo
+/Users/markantonylisle/CSHARP/gptdemo/bin/Debug/net9.0/gptdemo.deps.json
+/Users/markantonylisle/CSHARP/gptdemo/bin/Debug/net9.0/gptdemo.runtimeconfig.json
+/Users/markantonylisle/CSHARP/gptdemo/bin/Debug/net9.0/gptdemo.dll
+/Users/markantonylisle/CSHARP/gptdemo/bin/Debug/net9.0/gptdemo.pdb
+/Users/markantonylisle/CSHARP/gptdemo/bin/Debug/net9.0/OpenAI-DotNet.dll
+/Users/markantonylisle/CSHARP/gptdemo/obj/Debug/net9.0/gptdemo.csproj.AssemblyReference.cache
+/Users/markantonylisle/CSHARP/gptdemo/obj/Debug/net9.0/gptdemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markantonylisle/CSHARP/gptdemo/obj/Debug/net9.0/gptdemo.AssemblyInfoInputs.cache
+/Users/markantonylisle/CSHARP/gptdemo/obj/Debug/net9.0/gptdemo.AssemblyInfo.cs
+/Users/markantonylisle/CSHARP/gptdemo/obj/Debug/net9.0/gptdemo.csproj.CoreCompileInputs.cache
+/Users/markantonylisle/CSHARP/gptdemo/obj/Debug/net9.0/gptdemo.csproj.Up2Date
+/Users/markantonylisle/CSHARP/gptdemo/obj/Debug/net9.0/gptdemo.dll
+/Users/markantonylisle/CSHARP/gptdemo/obj/Debug/net9.0/refint/gptdemo.dll
+/Users/markantonylisle/CSHARP/gptdemo/obj/Debug/net9.0/gptdemo.pdb
+/Users/markantonylisle/CSHARP/gptdemo/obj/Debug/net9.0/gptdemo.genruntimeconfig.cache
+/Users/markantonylisle/CSHARP/gptdemo/obj/Debug/net9.0/ref/gptdemo.dll
