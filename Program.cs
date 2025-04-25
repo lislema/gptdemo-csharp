@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using OpenAI;
 using OpenAI.Chat;
 
+
 class Program
 {
     static async Task Main(string[] args)
